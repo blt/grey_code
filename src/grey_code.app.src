@@ -1,0 +1,5 @@
+{application, grey_code,
+ [
+  {description, "Binary reflected grey code"},
+  {vsn, "1.0.0"}
+ ]}.
